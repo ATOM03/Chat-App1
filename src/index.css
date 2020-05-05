@@ -1,0 +1,6 @@
+body {
+  display: flex;
+  font-family: sans-serif;
+  margin: 0;
+  /* background: linear-gradient(to left, #8e44ad, #2980b9); */
+}
